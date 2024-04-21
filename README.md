@@ -2,9 +2,9 @@
 
 ## Description
 
-I used basic HTML,CSS,Git and Javascript to create a study guide for myself as a bootcamp student
+- I used basic HTML,CSS,Git and Javascript to create a study guide for myself as a bootcamp student
 
--Building a basic website was a great introduction to the building blocks of coding as well as an introduction to the tools I would need to learn how to code.
+- Building a basic website was a great introduction to the building blocks of coding as well as an introduction to the tools I would need to learn how to code.
 
 - Through making the webpage I learned basic procedures in the coding workplace as well as the building blocks of a webpage and their deployment.
 
